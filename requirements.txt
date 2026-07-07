@@ -1,0 +1,9 @@
+# Core / 核心依赖
+torch>=2.0
+torchvision
+numpy
+opencv-python
+matplotlib
+tifffile
+tensorboard
+absl-py

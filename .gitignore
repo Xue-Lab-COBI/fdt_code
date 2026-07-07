@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Experiment outputs / 实验输出
+log/
+dataset/
+image_pred/
+RI_pred/
+*.tar
+log_*.txt
+metricsRI.txt
+test_metrics.txt
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
