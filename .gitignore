@@ -17,3 +17,7 @@ test_metrics.txt
 .vscode/
 .idea/
 .DS_Store
+
+# Local eval artifacts / 本地评估产物
+RI.npy
+ri.tif
