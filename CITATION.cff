@@ -1,0 +1,6 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Code for Fluorescence Diffraction Tomography using Explicit Neural Fields"
+authors: [{family-names: He, given-names: Renzhi}, {family-names: Li, given-names: Yucheng}, {family-names: Chen, given-names: Junjie}, {family-names: Dinh, given-names: "Truc M."}, {family-names: Stevens, given-names: "Charlotte R."}, {family-names: Gilchrist, given-names: "Aidan E."}, {family-names: Xue, given-names: Yi}]
+license: MIT
+repository-code: "https://github.com/Xue-Lab-COBI/fdt_code"
