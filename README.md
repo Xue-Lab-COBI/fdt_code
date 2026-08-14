@@ -1,5 +1,7 @@
 # FDT — Fluorescence Diffraction Tomography using Explicit Neural Fields
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21930595.svg)](https://doi.org/10.5281/zenodo.21930595)
+
 Code for the paper *"Fluorescence Diffraction Tomography using Explicit
 Neural Fields"*.
 
