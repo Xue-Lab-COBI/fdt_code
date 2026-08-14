@@ -13,6 +13,16 @@ trainable voxel grid (`NeRF.py`) optimized with gradient descent
 source locations / voxel pitch and coarse-to-fine (multi-resolution)
 training.
 
+## Data
+
+The experimental datasets used in the paper are available at
+<https://ucdavis.box.com/s/ppmk0af74oz0rn3lngc3pvtkffwp3j4v>.
+
+Place a downloaded dataset folder under `./dataset/` and train with
+`--data_name <folder_name> --render 0`; see
+[Running on your own data](#running-on-your-own-data) for the expected file
+layout.
+
 ## Repository layout
 
 | File | Purpose |
